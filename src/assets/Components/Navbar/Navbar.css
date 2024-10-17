@@ -1,0 +1,13 @@
+.navbar {
+  background-image: linear-gradient(#673ab7, #512da8);
+}
+
+.active {
+  color: white;
+  font-weight: 500;
+  background-color: #7542ce;
+}
+
+.text-main {
+  color: #673ab7;
+}
